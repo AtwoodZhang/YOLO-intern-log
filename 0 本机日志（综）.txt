@@ -1,0 +1,25 @@
+--------下列安装位置均默认--------
+
+***环境配置：***
+1. 配置tesla t4驱动：421
+2. 安装visual stido 2019
+3. 配置安装cuda10.1、cudnn(基于cuda10.1) 
+    同时，驱动自动更新为456.43（说明驱动可支持高版本cuda）
+4. 配置github. Git-2.29.2.2-64-bit
+5. 配置python3.7.9
+6. 配置编辑器：notepad++.绿色版无需安装，快捷方式配在桌面。
+7. 增加pip镜像源pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyspider
+8. anaconda 3.8， python也自动升级到3.8.5
+
+***数据配置***
+1. YOLO:         (目标识别代码)    git clone(to):  D:\YOLO_git\YOLO V4\darknet
+2. LabelImg:  （目标标注代码）  git clone(to):  D:\YOLO_git\LabelImg  
+
+***YOLO V4***
+1. windows尝试配置YOLO V4 
+    1）安装opencv3.4.12
+    2)  安装cmake
+    3）编译出问题。
+
+****将vs2019降低至vs2017，然后重新操作****
+1. 驱动安排：驱动又掉了。
